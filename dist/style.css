@@ -1,0 +1,8 @@
+:root {
+    --layout-width: 70rem;   
+}
+
+.content {
+    max-width: var(--layout-width);
+    margin: 0 auto;
+}
